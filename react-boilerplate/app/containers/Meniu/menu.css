@@ -1,0 +1,9 @@
+.fullWidth {
+    flex:1
+}
+#list {
+    width: 200px;
+}
+.buttons {
+    width:200px;
+}

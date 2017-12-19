@@ -1,0 +1,9 @@
+.register {
+    width: 500px;
+    position: absolute;
+    z-index: 15;
+    top: 20%;
+    left: 10%;
+    padding:12px;
+    margin: -100px 0 0 -150px;
+}
